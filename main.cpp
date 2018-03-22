@@ -6,13 +6,7 @@ using namespace std;
 
 int main()
 {
-    Queue A;
-    Queue B;
-    Queue C;
-
-	
-	wybierz_test(A,B,C);
-        wynik(A,B,C);
+    test();
 
     return 0;
 }

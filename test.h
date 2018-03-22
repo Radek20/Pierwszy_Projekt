@@ -4,13 +4,13 @@
 
 using namespace std;
 
-void wybierz_test(Queue &A, Queue &B, Queue &C);
-void test_1(Queue &A, Queue &B);
-void test_2(Queue &A, Queue &B);
-void test_3(Queue &A, Queue &B);
-void test_4(Queue &A, Queue &B);
-void test_5(Queue &A, Queue &B);
-void test_6(Queue &A, Queue &B);
-void wynik(Queue &A, Queue &B, Queue &C);
+void test();
+bool test_1();
+bool test_2();
+bool test_3();
+bool test_4();
+bool test_5();
+bool test_6();
+void example();
 
 #endif
